@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.stef.android.mtrack",
+    "sha256_cert_fingerprints":
+    ["C6:25:5B:08:90:A9:77:2D:93:77:32:09:50:F7:05:F9:09:32:81:B4:BB:A1:D3:96:B2:00:CA:AE:9F:1B:36:22"]
+  }
+}]
